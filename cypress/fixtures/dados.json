@@ -1,0 +1,19 @@
+{
+    "usuario": "teste123@uol.com",
+    "senha": "teste@teste.com",
+    "firstName": "Fernanda",
+    "lastName": "Maia",
+    "country": "BR",
+    "address1": "rua 12 de abril 123",
+    "city": "São Paulo",
+    "state": "SP",
+    "postCode": "05301050",
+    "phone": "11999999999",
+    "email": "teste123@uol.com",
+    "size": "M",
+    "color": "Black",
+    "quantity": 1,
+    "cart": 4062,
+    "prodId": 4062,
+    "varId": 4066
+}
